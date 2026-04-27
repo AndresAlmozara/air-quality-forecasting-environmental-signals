@@ -1,0 +1,27 @@
+[project]
+name = "air-quality-forecasting-environmental-signals"
+version = "0.1.0"
+description = "Tabular machine learning project initialized with MARS."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "jupyter",
+    "notebook",
+    "ipykernel",
+    "pyyaml",
+    "joblib",
+    "openpyxl",
+    "xgboost",
+    "lightgbm",
+    "catboost",
+]
+
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"

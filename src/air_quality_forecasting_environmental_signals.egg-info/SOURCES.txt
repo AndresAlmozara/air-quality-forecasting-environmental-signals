@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/air_quality_forecasting_environmental_signals.egg-info/PKG-INFO
+src/air_quality_forecasting_environmental_signals.egg-info/SOURCES.txt
+src/air_quality_forecasting_environmental_signals.egg-info/dependency_links.txt
+src/air_quality_forecasting_environmental_signals.egg-info/requires.txt
+src/air_quality_forecasting_environmental_signals.egg-info/top_level.txt
